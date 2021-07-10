@@ -1,0 +1,18 @@
+body {
+  font-family: "Helvetica-Neue", Ultra;
+  font-size: 16px;
+  background: linear-gradient(to left, #F771EC , #3a7bd5);
+}
+#wrapper {
+  background: rgb(89, 220, 230);
+  border-style: groove;
+  border-radius: 5px;
+  padding: 1.2rem
+}
+.otstup {
+  margin-bottom: 20px;
+}
+h1.text-center{
+  border-style: solid;
+  background-color: #3a7bd5;
+}
